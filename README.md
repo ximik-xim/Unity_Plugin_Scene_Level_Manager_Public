@@ -49,4 +49,18 @@ Scene Level Manager -> Example Scene -> Example Scene Default -> Scene Level -> 
 
 ---------------------------------------------------------------------------------------------------------
 
+Для работы нужны плагины
+
+Unity_Plugin-General_Public - https://github.com/ximik-xim/Unity_Plugin-TList_Public
+
+Unity_Plugin-TList_Public - https://github.com/ximik-xim/Unity_Plugin-General_Public
+
+Unity_Plugin_Task_Loader_UI_Public - https://github.com/ximik-xim/Unity_Plugin_Task_Loader_UI_Public
+
+Unity_Plugin_List_Task_Public - https://github.com/ximik-xim/Unity_Plugin_List_Task_Public
+
+Unity_Plugin_Save_Data_Public - https://github.com/ximik-xim/Unity_Plugin_Save_Data_Public
+
+---------------------------------------------------------------------------------------------------------
+
 Ну и так же нужно восстановить ключи TList из бэкапов. Для этого нажимаем на папку Scene Level Manager кнопкой ПКМ и заходим в пункт TList -> К папке -> Стереть и восстановить все данные
