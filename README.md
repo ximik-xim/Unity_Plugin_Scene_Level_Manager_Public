@@ -61,6 +61,8 @@ Unity_Plugin_List_Task_Public - https://github.com/ximik-xim/Unity_Plugin_List_T
 
 Unity_Plugin_Save_Data_Public - https://github.com/ximik-xim/Unity_Plugin_Save_Data_Public
 
+Unity_Plugin_Wrapper_Addressables_Manager_Public - https://github.com/ximik-xim/Unity_Plugin_Wrapper_Addressables_Manager_Public
+
 ---------------------------------------------------------------------------------------------------------
 
 Ну и так же нужно восстановить ключи TList из бэкапов. Для этого нажимаем на папку Scene Level Manager кнопкой ПКМ и заходим в пункт TList -> К папке -> Стереть и восстановить все данные
