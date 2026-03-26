@@ -5,7 +5,7 @@ using UnityEngine;
 /// <summary>
 /// Нужен что бы упростить доступ к логике блокировки
 /// </summary>
-public class GetPatchIntStorageBlockScene : MonoBehaviour
+public class GetPatchInStorageBlockScene : MonoBehaviour
 {
     public event Action OnInit;
     public bool IsInit => _isInit;

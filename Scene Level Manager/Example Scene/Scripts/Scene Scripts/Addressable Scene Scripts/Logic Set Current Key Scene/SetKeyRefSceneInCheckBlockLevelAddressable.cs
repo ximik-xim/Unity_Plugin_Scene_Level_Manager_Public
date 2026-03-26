@@ -5,13 +5,13 @@ using UnityEngine;
 /// берет ключ через KeyReferenceScene
 /// передает его в логику проверки заблокирован ли Scene Level
 /// </summary>
-public class SetKeyRefSceneInActionListCheckBlockLevelAddressable : MonoBehaviour
+public class SetKeyRefSceneInCheckBlockLevelAddressable : MonoBehaviour
 {
     [SerializeField]
     private ActionListCheckIsBlockSceneLevel _checkIsBlockSceneLeve;
 
     [SerializeField]
-    private KeyNameSceneInGetDataSO_KeyReferenceScene _keyReferenceScene;
+    private KeyNameSceneInGetDataSO_KeyRefScene _keyReferenceScene;
 
     /// <summary>
     /// Подпис ли на обновл данных об списке заблокир. сцен

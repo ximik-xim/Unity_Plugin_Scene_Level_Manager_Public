@@ -10,7 +10,7 @@ using UnityEngine.ResourceManagement.ResourceLocations;
 /// Логика для получения через Asset Ref обычные ключи сцены
 /// Обертка над обычной логикой получ. ключа 
 /// </summary>
-public class KeyNameSceneInGetDataSO_KeyReferenceScene 
+public class KeyNameSceneInGetDataSO_KeyRefScene 
 {
     public event Action OnInit;
     public bool IsInit => _isInit;

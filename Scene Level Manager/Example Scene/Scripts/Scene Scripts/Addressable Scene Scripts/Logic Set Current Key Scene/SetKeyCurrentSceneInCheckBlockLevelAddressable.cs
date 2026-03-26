@@ -6,7 +6,7 @@ using UnityEngine;
 /// проверяет есть ли ключ для след сцены в StorageSceneNumber и если да,
 /// то передает его в логику проверки заблокирован ли Scene Level
 /// </summary>
-public class SetKeyCurrentSceneInActionListCheckBlockLevelAddressable : MonoBehaviour
+public class SetKeyCurrentSceneInCheckBlockLevelAddressable : MonoBehaviour
 {
     [SerializeField]
     private ActionListCheckIsBlockSceneLevel _checkIsBlockSceneLeve;

@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 /// <summary>
 /// По окончанию работы Task Loader UI запустит загрузку сцены
 /// </summary>
-public class SceneStartTaskComplitedStartLoadSceneAddressable : MonoBehaviour
+public class SceneStartTaskComplitedLoadSceneAddressable : MonoBehaviour
 {
     [SerializeField]
     private SceneStartTask _sceneStartTask;
